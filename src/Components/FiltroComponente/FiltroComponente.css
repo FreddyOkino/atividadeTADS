@@ -1,0 +1,29 @@
+.filtro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+  }
+  
+  .filtro label {
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000;
+    margin-right: 5px;
+    font-weight: bolder;
+  }
+  
+  .filtro select {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid rgba(238, 237, 237, 0.808);;
+    border-radius: 4px;
+    outline: none;
+    transition: border-color 0.3s;
+    margin-right: 20px;
+    background-color: rgba(238, 237, 237, 0.808);
+    
+  }
+  
+  
